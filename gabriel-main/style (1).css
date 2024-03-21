@@ -1,0 +1,21 @@
+{
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçalho{
+    background-color: hsl(217, 59%, 48%);
+    color: #2972ad;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.cabeçalho-imagem{
+    width: 20%;
+
+}
+.cabeçalho-lista-item{
+    display: inline block;
+    margin: 0 16px;
+}
